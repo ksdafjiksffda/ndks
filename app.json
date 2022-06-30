@@ -1,6 +1,6 @@
 {
-    "name": "随便改",
-    "description": "随便改",
+    "name": "apps",
+    "description": "apps",
     "keywords": ["VLESS"],
     "env": {
         "ID": {

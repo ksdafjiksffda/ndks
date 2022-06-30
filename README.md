@@ -1,4 +1,5 @@
-﻿[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ksdafjiksffda/ndks.git)
+﻿[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/apps
+template=https://github.com/ksdafjiksffda/ndks.git)
 
 ```
 addEventListener(
